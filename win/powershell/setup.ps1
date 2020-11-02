@@ -37,3 +37,5 @@ Set-Theme Zash
 rm $PROFILE
 New-Item $PROFILE
 Set-Content $PROFILE $my_profile
+
+# in settings adauga https://docs.microsoft.com/en-us/windows/terminal/custom-terminal-gallery/raspberry-ubuntu si foloseste asta in ubuntu
